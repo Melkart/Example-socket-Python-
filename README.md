@@ -1,4 +1,4 @@
-# Example-socket-Python-
+# Example-socket-Python
 Socket example ussing Python v3.0
 This example has two codes. One of them is the server code and the other is the client example code.
 
